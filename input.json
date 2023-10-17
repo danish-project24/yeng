@@ -1,0 +1,28 @@
+{
+"subscriptions": {
+                        "subscription1": {
+                              "application": "subtest",
+                              "environment": "sbx",
+                              "location": "westeu",
+                              "management_group_id": "trivium-packaging"
+                        },
+                        "subscription2": {
+                              "application": "subtest",
+                              "environment": "sbx",
+                              "location": "westeu",
+                              "management_group_id": "trivium-packaging"
+                        },
+                        "subscription3": {
+                              "application": "subtest",
+                              "environment": "sbx",
+                              "location": "westeu",
+                              "management_group_id": "trivium-packaging"
+                        },
+                        "subscription4": {
+                              "application": "subtest",
+                              "environment": "sbx",
+                              "location": "westeu",
+                              "management_group_id": "trivium-packaging"
+                        }
+                  }
+}
